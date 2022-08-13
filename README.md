@@ -1,4 +1,4 @@
-# BCL-LAB - Darius Analog Watch
+# BCL-LAB - Darius Watch
 
 Um relógio com tema do Darius do League of Legends, muito top usando CSS, HTML e JavaScript
 
